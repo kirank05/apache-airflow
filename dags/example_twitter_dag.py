@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #
+#
 # Licensed to the Apache Software Foundation (ASF) under one
 # or more contributor license agreements.  See the NOTICE file
 # distributed with this work for additional information
@@ -17,8 +18,6 @@
 # specific language governing permissions and limitations
 # under the License.
 # --------------------------------------------------------------------------------
-# Written By: Ekhtiar Syed
-# Last Update: 8th April 2016
 # Caveat: This Dag will not run because of missing scripts.
 # The purpose of this is to give you a sample of a real world example DAG!
 # --------------------------------------------------------------------------------
